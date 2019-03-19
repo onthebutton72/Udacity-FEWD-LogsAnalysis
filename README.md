@@ -30,7 +30,7 @@ This is the first project for the Udacity Full Stack Web Developer Nanodegree.  
 
 ## Views
 
-```
+```sql
 CREATE VIEW errors AS 
 
 SELECT date(time), count(status)  
