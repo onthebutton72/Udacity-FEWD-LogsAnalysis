@@ -1,6 +1,6 @@
 # Udacity FSWD Project: Logs Analysis
 
-This is the first project for the Udacity Full Stack Web Developer Nanodegree.  This project involves creating a reporting tool that prints out reports (in plain text) based on the data in the database.  This reporting tool is a Python program using the psycopg2 module to connect to the database.
+This is the first project for the Udacity Front End Web Developer Nanodegree.  This project involves creating a reporting tool that prints out reports (in plain text) based on the data in the database.  This reporting tool is a Python program using the psycopg2 module to connect to the database.
 ## Table of Contents
 
 * [Contents](#contents)
