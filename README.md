@@ -65,5 +65,5 @@ DESC;
 
 ## Creators
 
-* Jamie Martinez
+* Mr. Jamie Martinez
 
